@@ -34,9 +34,7 @@ This project analyzes COVID-19 case trends in India using Python libraries such 
 - Trends in **New Cases & New Deaths**
 - Clean and labeled visualizations using Seaborn
 
-<img src="images/sample_graph.png" width="600" alt="COVID Trend Graph">
-
-*(Add your graph screenshot here in the `images/` folder)*
+<img src="images/Graph.png" width="600" alt="COVID Trend Graph">
 
 ---
 
@@ -45,5 +43,5 @@ This project analyzes COVID-19 case trends in India using Python libraries such 
 ### 🖥️ On Your Local Machine:
 1. Clone this repo:
    ```bash
-   git clone https://github.com/yourusername/covid19-data-analysis-python.git
-   cd covid19-data-analysis-python
+   git clone https://github.com/yourusername/COVID19-data-analysis-python.git
+   cd COVID19-data-analysis-python
