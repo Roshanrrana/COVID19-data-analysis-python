@@ -34,7 +34,7 @@ This project analyzes COVID-19 case trends in India using Python libraries such 
 - Trends in **New Cases & New Deaths**
 - Clean and labeled visualizations using Seaborn
 
-<img src="images/Graph.png" width="600" alt="COVID Trend Graph">
+<img src="Graph.png" width="600" alt="COVID Trend Graph">
 
 ---
 
